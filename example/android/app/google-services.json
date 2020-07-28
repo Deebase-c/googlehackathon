@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "450202346140",
+    "firebase_url": "https://square-877d2.firebaseio.com",
+    "project_id": "square-877d2",
+    "storage_bucket": "square-877d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450202346140:android:9cfa28d62a523346da4359",
+        "android_client_info": {
+          "package_name": "sqip.flutter.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450202346140-ggm9gig7cnvqo3fgd4taig9o06q6g9h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sqip.flutter.example",
+            "certificate_hash": "0be66bf0f9ac8745ff940ff6ac6cb638f3a9e694"
+          }
+        },
+        {
+          "client_id": "450202346140-46stla469vn9qbj00uda1gjphs0uhr9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sqip.flutter.example",
+            "certificate_hash": "e9aa26eecd4da5bde29c3b5bbbcb10c78014c2de"
+          }
+        },
+        {
+          "client_id": "450202346140-b7n2n5bjl1rjigdq6j8v2l9m41dplo5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCiX98wNAEfGoHbD9iq5oUHTO5AVOKKLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450202346140-b7n2n5bjl1rjigdq6j8v2l9m41dplo5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450202346140-k82tathi10tlstblpl2je602i8c9sqjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
